@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="commons-exec-1.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/UI Automation/libs/commons-exec-1.3.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/UI Automation/libs/guava-25.0-jre.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/UI Automation/libs/byte-buddy-1.8.15.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/UI Automation/libs/okhttp-3.11.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/UI Automation/libs/okio-1.14.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/UI Automation/client-combined-3.141.59.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Desktop/UI Automation/client-combined-3.141.59-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
